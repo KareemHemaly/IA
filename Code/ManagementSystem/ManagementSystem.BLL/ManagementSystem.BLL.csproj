@@ -44,15 +44,18 @@
   <ItemGroup>
     <Compile Include="Class1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Service\ProjectService.cs" />
     <Compile Include="Service\UserService.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="IService\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <ProjectReference Include="..\Common\Common.csproj">
       <Project>{FD5C91CE-BEF1-4839-A241-746A31218D87}</Project>
       <Name>Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ManagementSystem.DAL\ManagementSystem.DAL.csproj">
+      <Project>{87F0B56C-3B78-4DC6-BC83-D121BB5C4049}</Project>
+      <Name>ManagementSystem.DAL</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

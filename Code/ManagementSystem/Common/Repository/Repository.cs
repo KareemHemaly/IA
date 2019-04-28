@@ -14,17 +14,16 @@ namespace Common.Repository
         private C _entities = new C();
         public C Context
         {
-
             get { return _entities; }
             set { _entities = value; }
         }
 
         public virtual IQueryable<T> GetAll()
         {
-
             IQueryable<T> query = _entities.Set<T>();
             return query;
         }
+
 
         public IQueryable<T> FindBy(System.Linq.Expressions.Expression<Func<T, bool>> predicate)
         {

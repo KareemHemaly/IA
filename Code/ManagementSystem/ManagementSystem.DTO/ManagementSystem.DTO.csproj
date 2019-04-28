@@ -43,10 +43,15 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="DTO\ProjectDTO.cs" />
+    <Compile Include="DTO\UserDTO.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="DTO\" />
+    <ProjectReference Include="..\ManagementSystem.DAL\ManagementSystem.DAL.csproj">
+      <Project>{87F0B56C-3B78-4DC6-BC83-D121BB5C4049}</Project>
+      <Name>ManagementSystem.DAL</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

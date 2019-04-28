@@ -9,8 +9,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManagementSystem.BLL", "Man
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManagementSystem.DAL", "ManagementSystem.DAL\ManagementSystem.DAL.csproj", "{87F0B56C-3B78-4DC6-BC83-D121BB5C4049}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManagementSystem.DTO", "ManagementSystem.DTO\ManagementSystem.DTO.csproj", "{6A8B0696-5724-4D2B-8F2A-9BEBBA13F038}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{FD5C91CE-BEF1-4839-A241-746A31218D87}"
 EndProject
 Global
@@ -31,10 +29,6 @@ Global
 		{87F0B56C-3B78-4DC6-BC83-D121BB5C4049}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87F0B56C-3B78-4DC6-BC83-D121BB5C4049}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87F0B56C-3B78-4DC6-BC83-D121BB5C4049}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6A8B0696-5724-4D2B-8F2A-9BEBBA13F038}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6A8B0696-5724-4D2B-8F2A-9BEBBA13F038}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6A8B0696-5724-4D2B-8F2A-9BEBBA13F038}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6A8B0696-5724-4D2B-8F2A-9BEBBA13F038}.Release|Any CPU.Build.0 = Release|Any CPU
 		{FD5C91CE-BEF1-4839-A241-746A31218D87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FD5C91CE-BEF1-4839-A241-746A31218D87}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD5C91CE-BEF1-4839-A241-746A31218D87}.Release|Any CPU.ActiveCfg = Release|Any CPU

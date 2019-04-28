@@ -8,7 +8,7 @@ namespace ManagementSystem.DAL.Entity
 {
     public class Users
     {
-        public string Id { get; set; }
+        public int Id { get; set; }
         public string FName { get; set; }
         public string LName { get; set; }
         public string Mobile { get; set; } 
@@ -16,7 +16,7 @@ namespace ManagementSystem.DAL.Entity
         public string Photo { get; set; }
         public string Email { get; set; }
 
-        public string User_Type { get; set; }
+        public int User_Type { get; set; }
         public virtual Roles Users_type { get; set; }
     }
 }

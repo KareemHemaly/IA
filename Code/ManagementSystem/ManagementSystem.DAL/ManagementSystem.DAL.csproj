@@ -68,12 +68,26 @@
     <Compile Include="Migrations\201904281652049_CreateDB.Designer.cs">
       <DependentUpon>201904281652049_CreateDB.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201904281826084_Test.cs" />
+    <Compile Include="Migrations\201904281826084_Test.Designer.cs">
+      <DependentUpon>201904281826084_Test.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201904281829120_int.cs" />
+    <Compile Include="Migrations\201904281829120_int.Designer.cs">
+      <DependentUpon>201904281829120_int.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Migrations\201904281652049_CreateDB.resx">
       <DependentUpon>201904281652049_CreateDB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201904281826084_Test.resx">
+      <DependentUpon>201904281826084_Test.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201904281829120_int.resx">
+      <DependentUpon>201904281829120_int.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>

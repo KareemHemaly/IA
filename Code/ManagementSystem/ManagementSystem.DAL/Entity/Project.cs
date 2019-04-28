@@ -8,7 +8,8 @@ namespace ManagementSystem.DAL.Entity
 {
     public class Project
     {
-        public string Id { get; set; }
+        
+        public int Id { get; set; }
         public string Name { get; set; }  
         public string price { get; set; }
         public string Created_By { get; set; }

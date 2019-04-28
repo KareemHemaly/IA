@@ -8,13 +8,13 @@ namespace ManagementSystem.DAL.Entity
 {
     public class Team
     {
-        public string Id { get; set; }
+        public int Id { get; set; }
         public bool IsActive { get; set; }
 
         public string Project_Id { get; set; }
         public virtual Project Project { get; set; }
 
-        public string Member_Id { get; set; } 
+        public int Member_Id { get; set; } 
         public virtual Users User_Id { get; set; }
     }
 }
