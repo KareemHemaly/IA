@@ -12,9 +12,10 @@ namespace ManagementSystem.BLL.Service
     {
         private IRepository<Project> _project;
 
-        public ProjectService()
+        public ProjectService(IRepository<Project> project)
         {
-                
+            _project = project;
+
         }
 
         public void update(int id)

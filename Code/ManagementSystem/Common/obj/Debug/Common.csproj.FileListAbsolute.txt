@@ -1,0 +1,15 @@
+E:\IA PROJECT\IA\Code\ManagementSystem\Common\bin\Debug\Common.dll.config
+E:\IA PROJECT\IA\Code\ManagementSystem\Common\bin\Debug\Common.dll
+E:\IA PROJECT\IA\Code\ManagementSystem\Common\bin\Debug\Common.pdb
+E:\IA PROJECT\IA\Code\ManagementSystem\Common\bin\Debug\EntityFramework.dll
+E:\IA PROJECT\IA\Code\ManagementSystem\Common\bin\Debug\EntityFramework.SqlServer.dll
+E:\IA PROJECT\IA\Code\ManagementSystem\Common\bin\Debug\ManagementSystem.DAL.dll
+E:\IA PROJECT\IA\Code\ManagementSystem\Common\bin\Debug\ManagementSystem.DAL.pdb
+E:\IA PROJECT\IA\Code\ManagementSystem\Common\bin\Debug\ManagementSystem.DAL.dll.config
+E:\IA PROJECT\IA\Code\ManagementSystem\Common\bin\Debug\EntityFramework.xml
+E:\IA PROJECT\IA\Code\ManagementSystem\Common\bin\Debug\EntityFramework.SqlServer.xml
+E:\IA PROJECT\IA\Code\ManagementSystem\Common\obj\Debug\Common.csprojAssemblyReference.cache
+E:\IA PROJECT\IA\Code\ManagementSystem\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+E:\IA PROJECT\IA\Code\ManagementSystem\Common\obj\Debug\Common.csproj.CopyComplete
+E:\IA PROJECT\IA\Code\ManagementSystem\Common\obj\Debug\Common.dll
+E:\IA PROJECT\IA\Code\ManagementSystem\Common\obj\Debug\Common.pdb

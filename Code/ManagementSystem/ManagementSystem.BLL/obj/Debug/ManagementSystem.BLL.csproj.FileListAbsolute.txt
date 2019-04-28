@@ -1,0 +1,15 @@
+E:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.BLL\bin\Debug\ManagementSystem.BLL.dll
+E:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.BLL\bin\Debug\ManagementSystem.BLL.pdb
+E:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.BLL\bin\Debug\Common.dll
+E:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.BLL\bin\Debug\ManagementSystem.DAL.dll
+E:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.BLL\bin\Debug\EntityFramework.dll
+E:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.BLL\bin\Debug\Common.pdb
+E:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.BLL\bin\Debug\Common.dll.config
+E:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.BLL\bin\Debug\ManagementSystem.DAL.pdb
+E:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.BLL\bin\Debug\ManagementSystem.DAL.dll.config
+E:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.BLL\bin\Debug\EntityFramework.xml
+E:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.BLL\obj\Debug\ManagementSystem.BLL.csprojAssemblyReference.cache
+E:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.BLL\obj\Debug\ManagementSystem.BLL.csproj.CoreCompileInputs.cache
+E:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.BLL\obj\Debug\ManagementSystem.BLL.csproj.CopyComplete
+E:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.BLL\obj\Debug\ManagementSystem.BLL.dll
+E:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.BLL\obj\Debug\ManagementSystem.BLL.pdb

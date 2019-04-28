@@ -33,3 +33,22 @@ E:\Study\Collage\IAGit\Code\ManagementSystem\ManagementSystem.DAL\obj\Debug\Mana
 E:\Study\Collage\IAGit\Code\ManagementSystem\ManagementSystem.DAL\obj\Debug\ManagementSystem.DAL.pdb
 E:\Study\Collage\IAGit\Code\ManagementSystem\ManagementSystem.DAL\obj\Debug\ManagementSystem.DAL.Migrations.Test.resources
 E:\Study\Collage\IAGit\Code\ManagementSystem\ManagementSystem.DAL\obj\Debug\ManagementSystem.DAL.Migrations._int.resources
+E:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.DAL\bin\Debug\ManagementSystem.DAL.dll.config
+E:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.DAL\bin\Debug\ManagementSystem.DAL.dll
+E:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.DAL\bin\Debug\ManagementSystem.DAL.pdb
+E:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.DAL\bin\Debug\EntityFramework.dll
+E:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.DAL\bin\Debug\EntityFramework.SqlServerCompact.dll
+E:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.DAL\bin\Debug\System.Data.SqlServerCe.dll
+E:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.DAL\bin\Debug\EntityFramework.xml
+E:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.DAL\bin\Debug\EntityFramework.SqlServerCompact.xml
+E:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.DAL\obj\Debug\ManagementSystem.DAL.csprojAssemblyReference.cache
+E:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.DAL\obj\Debug\ManagementSystem.DAL.Migrations.CreateDB.resources
+E:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.DAL\obj\Debug\ManagementSystem.DAL.Migrations.Test.resources
+E:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.DAL\obj\Debug\ManagementSystem.DAL.Migrations._int.resources
+E:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.DAL\obj\Debug\ManagementSystem.DAL.csproj.GenerateResource.cache
+E:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.DAL\obj\Debug\ManagementSystem.DAL.csproj.CoreCompileInputs.cache
+E:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.DAL\obj\Debug\ManagementSystem.DAL.csproj.CopyComplete
+E:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.DAL\obj\Debug\ManagementSystem.DAL.dll
+E:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.DAL\obj\Debug\ManagementSystem.DAL.pdb

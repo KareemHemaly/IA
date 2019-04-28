@@ -15,6 +15,8 @@ namespace ManagementSystem.DAL.Entity
         public string JDescription { get; set; } 
         public string Photo { get; set; }
         public string Email { get; set; }
+        public string Password { get; set; }
+
 
         public int User_Type { get; set; }
         public virtual Roles Users_type { get; set; }
