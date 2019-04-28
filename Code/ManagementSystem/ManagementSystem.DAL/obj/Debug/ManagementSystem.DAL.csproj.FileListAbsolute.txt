@@ -1,0 +1,16 @@
+E:\Study\Collage\IA\Code\ManagementSystem\ManagementSystem.DAL\bin\Debug\ManagementSystem.DAL.dll.config
+E:\Study\Collage\IA\Code\ManagementSystem\ManagementSystem.DAL\bin\Debug\ManagementSystem.DAL.dll
+E:\Study\Collage\IA\Code\ManagementSystem\ManagementSystem.DAL\bin\Debug\ManagementSystem.DAL.pdb
+E:\Study\Collage\IA\Code\ManagementSystem\ManagementSystem.DAL\bin\Debug\EntityFramework.dll
+E:\Study\Collage\IA\Code\ManagementSystem\ManagementSystem.DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Study\Collage\IA\Code\ManagementSystem\ManagementSystem.DAL\bin\Debug\EntityFramework.xml
+E:\Study\Collage\IA\Code\ManagementSystem\ManagementSystem.DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Study\Collage\IA\Code\ManagementSystem\ManagementSystem.DAL\obj\Debug\ManagementSystem.DAL.csproj.CoreCompileInputs.cache
+E:\Study\Collage\IA\Code\ManagementSystem\ManagementSystem.DAL\obj\Debug\ManagementSystem.DAL.csproj.CopyComplete
+E:\Study\Collage\IA\Code\ManagementSystem\ManagementSystem.DAL\obj\Debug\ManagementSystem.DAL.dll
+E:\Study\Collage\IA\Code\ManagementSystem\ManagementSystem.DAL\obj\Debug\ManagementSystem.DAL.pdb
+E:\Study\Collage\IA\Code\ManagementSystem\ManagementSystem.DAL\bin\Debug\EntityFramework.SqlServerCompact.dll
+E:\Study\Collage\IA\Code\ManagementSystem\ManagementSystem.DAL\bin\Debug\System.Data.SqlServerCe.dll
+E:\Study\Collage\IA\Code\ManagementSystem\ManagementSystem.DAL\bin\Debug\EntityFramework.SqlServerCompact.xml
+E:\Study\Collage\IA\Code\ManagementSystem\ManagementSystem.DAL\obj\Debug\ManagementSystem.DAL.Migrations.CreateDB.resources
+E:\Study\Collage\IA\Code\ManagementSystem\ManagementSystem.DAL\obj\Debug\ManagementSystem.DAL.csproj.GenerateResource.cache
