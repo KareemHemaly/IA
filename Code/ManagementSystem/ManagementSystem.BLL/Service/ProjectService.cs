@@ -21,7 +21,7 @@ namespace ManagementSystem.BLL.Service
         public void update(int id)
         {
             Project project = _project.GetAll().Where(x => x.Id == id).FirstOrDefault();
-            project.Cloumn = false;
+            project.IsAssigned = false;
             _project.Add(project);
             _project.Save();
         }

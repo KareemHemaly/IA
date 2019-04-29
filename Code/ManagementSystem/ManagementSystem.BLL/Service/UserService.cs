@@ -18,13 +18,13 @@ namespace ManagementSystem.BLL.Service
         }
 
 
-        public bool Add(Users user)
+        public Users Add(Users user)
         {
             try
             {
                 _user.Add(user);
                 _user.Save();
-                return true;
+                return user;
             }
             catch (Exception e)
             {

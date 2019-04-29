@@ -19,22 +19,13 @@ namespace ManagementSystem.Controllers
 
         //
         // POST: /Account/Register
-        [HttpPost]
-        [AllowAnonymous]
-        [ValidateAntiForgeryToken]
-        public ActionResult Register(DAL.Entity.Users model)
-        {
-            try
-            {
-
-
-                return RedirectToAction("Index");
-            }
-            catch
-            {
-                return View();
-            }
-        }
+        //[HttpPost]
+        //[AllowAnonymous]
+        //[ValidateAntiForgeryToken]
+        //public ActionResult Register(DAL.Entity.Users model)
+        //{
+           
+        //}
 
         [AllowAnonymous]
         public ActionResult Login()

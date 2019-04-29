@@ -66,7 +66,7 @@ D:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.DAL\obj\Debug\Management
 D:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.DAL\obj\Debug\ManagementSystem.DAL.Migrations.CreateDB.resources
 D:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.DAL\obj\Debug\ManagementSystem.DAL.Migrations.Test.resources
 D:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.DAL\obj\Debug\ManagementSystem.DAL.Migrations._int.resources
+D:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.DAL\obj\Debug\ManagementSystem.DAL.Migrations.enabledatabase.resources
 D:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.DAL\obj\Debug\ManagementSystem.DAL.csproj.GenerateResource.Cache
 D:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.DAL\obj\Debug\ManagementSystem.DAL.dll
 D:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.DAL\obj\Debug\ManagementSystem.DAL.pdb
-D:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.DAL\obj\Debug\ManagementSystem.DAL.Migrations.enabledatabase.resources
