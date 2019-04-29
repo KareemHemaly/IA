@@ -9,7 +9,8 @@ namespace ManagementSystem.DAL.Migrations
     {
         public Configuration()
         {
-            AutomaticMigrationsEnabled = false;
+            AutomaticMigrationsEnabled = true;
+            AutomaticMigrationDataLossAllowed = true;
         }
 
         protected override void Seed(ManagementSystem.DAL.Context.SystemContext context)

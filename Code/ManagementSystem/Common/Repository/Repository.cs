@@ -30,21 +30,30 @@ namespace Common.Repository
 
             IQueryable<T> query = _entities.Set<T>().Where(predicate);
             return query;
+            
+        }
+
+        public T Get(int Id)
+        {
+            return _entities.Set<T>().Find(Id);
         }
 
         public virtual void Add(T entity)
         {
             _entities.Set<T>().Add(entity);
+            this.Save();
         }
 
         public virtual void Delete(T entity)
         {
             _entities.Set<T>().Remove(entity);
+            this.Save();
         }
 
         public virtual void Edit(T entity)
         {
             _entities.Entry(entity).State = EntityState.Modified;
+            this.Save();
         }
 
         public virtual void Save()
