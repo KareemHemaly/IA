@@ -40,6 +40,7 @@ namespace Common.Repository
 
         public virtual void Add(T entity)
         {
+
             _entities.Set<T>().Add(entity);
             this.Save();
         }

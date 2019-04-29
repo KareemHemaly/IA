@@ -1,0 +1,310 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+
+}
+
+
+
+
+@*<form name="myform">
+        <label> User Name</label>
+        <input type="text" id="uName" class="form-control" style="display:block;width:200px"maxlength="25" required />
+
+        <label> Address</label>
+        <input type="text" id="uAddress" class="form-control" style="display:block;width:200px"maxlength="50" />
+
+        <label> Age</label>
+        <input type="text" id="uAge" class="form-control" style="display:block;width:200px"  maxlength="2" onkeypress="javascript:return isNumber(event)"/>
+
+        <label> PassWord</label>
+        <input type="password" id="uPassWord" class="form-control" style="display:block;width:200px" maxlength="11"  required title="max Password  11 character or Number"/>
+
+        <label>Phone Number</label>
+        <input type="tel" id="uPhone" class="form-control" style="display:block;width:200px" maxlength="11" onkeypress="javascript:return isNumber(event)"    required title="Phone Number must be 11 Number"/>
+        <br />
+        <button type="button" class="btn btn-info " onclick="reg()"> Registration</button>
+    </form>
+    @Html.ActionLink("Go to login", "loginScreen", "Person")
+    <script src="~/java/JavaScript.js"></script>*@
+@*//=======================================================================================================*@
+
+
+<html>
+
+<head>
+    <link rel="stylesheet" id="css" href="~/css/StyleSheet1.css">
+    <script>
+
+        function register() {
+            var title = document.getElementById("login-id");
+            title.setAttribute("style", "display:none");
+            var title2 = document.getElementById("register-id")
+            title2.setAttribute("style", "display:inherit");
+
+
+
+        }
+        function logind() {
+            var title = document.getElementById("register-id");
+            title.setAttribute("style", "display:none");
+            var title2 = document.getElementById("login-id")
+            title2.setAttribute("style", "display:inherit");
+
+        }
+        //====================================================================================
+        function regd() {
+            var firstname = document.getElementById("FirstName").value;
+
+            var lastname = document.getElementById("LastName").value;
+            var job = document.getElementById("JobDescription").value;
+            var Password = document.getElementById("uPassWord").value;
+            var rePassword = document.getElementById("rePassWord").value;
+            var phoneNumber = document.getElementById("uPhone").value;
+            var Email = document.getElementById("Email").value;
+            var Photoo = "cnenciueniuniu";
+            var User_Typee = 5;
+
+            if (firstname == "" || lastname == "" || job == "" || Password == "" || phoneNumber == "" || rePassword == "" || Email == "") {
+
+                alert("fill all data");
+
+            }
+            else if (rePassword != Password) {
+                alert("password not match")
+            }
+            else if (firstname != "" && lastname != "" && job != "" && Password != "" && rePassword != "" && phoneNumber != "" && Email != "") {
+
+                var l = pass();
+
+                if (l != true) {
+
+                    var rec = { FName: firstname, LName: lastname, Mobile: phoneNumber, JDescription: job, Email: Email, Password: Password, Photo: Photoo, User_Type: User_Typee };
+                    console.log(rec);
+                    $.ajax({
+
+
+                        url: "/Account/Register",
+                        data: JSON.stringify(rec),
+                        contentType: 'application/json',
+                        dataType: 'json',
+                        method: "post",
+                        success: function (data) {
+                            debugger;
+                            alert("done");
+                            clear();
+                        },
+                        error: function (e) {
+                            alert("your Email alrsssseady exist");
+                           
+                        }
+                    });
+                }
+            }
+        }
+        function isNumber(evt) {
+            var iKeyCode = (evt.which) ? evt.which : evt.keyCode
+            if (iKeyCode != 46 && iKeyCode > 31 && (iKeyCode < 48 || iKeyCode > 57))
+                return false;
+
+            return true;
+        }
+        function validatee() {
+            var x = document.getElementById("name").value;
+
+            if (! /^[a-zA-Z-,]+(\s{0,1}[a-zA-Z-, ])+[0-9]*$/g.test(x)) {
+                alert("user name must be only character");
+                return true
+
+                return false;
+            }
+        }
+        function pass() {
+            var x = document.getElementById("uPhone").value;
+            if (x.length < 11) {
+                alert("your Phone less than 11");
+                return true;
+            }
+            return false;
+        }
+        var inps = document.getElementsByTagName("input");
+        function clear() {
+            for (var i = 0; i < inps.length; i++) {
+                inps[i].value = "";
+            }
+        }
+        //=============================================================================
+        function log() {
+            var Email = document.getElementById("uName").value;
+            var Password = document.getElementById("Password").value;
+            var rec = { Email: Email, Password: Password }
+
+            if (Email == "" || Password == "") {
+
+                alert("fill all data");
+            }
+            else {
+
+
+
+                $.ajax({
+
+                    url: "/Account/Login",
+                    data: JSON.stringify(rec),
+                    contentType: 'application/json',
+                    dataType: 'json',
+                    method: "post",
+                    success: function (data) {
+                        debugger;
+
+                        alert("done");
+                        // window.location = "192.168.43.234";
+
+                        //alert("done");
+                        //clear();
+
+                    },
+                    error: function (e) {
+
+                        alert("your Email is not valid");
+                        clear();
+                    }
+                });
+            }
+
+        }
+        var inps = document.getElementsByTagName("input");
+        function clear() {
+            for (var i = 0; i < inps.length; i++) {
+                inps[i].value = "";
+            }
+        }
+        function validate() {
+            var x = document.getElementById("uName").value;
+            //   var y = document.getElementById("uName").value;
+
+            if (! /^[a-zA-Z-,]+(\s{0,1}[a-zA-Z-, ])+[0-9]*$/g.test(x)) {
+                alert("user name must be only character");
+                return true
+
+                return false;
+            }
+        }
+
+    </script>
+
+</head>
+<body>
+
+    <section class="section">
+        <div class="login-reg-panel">
+
+            <div class="login-info-box">
+
+
+                <h2>have an account?</h2>
+
+                <br>
+                <br>
+                <br>
+
+                <button type="button" onclick="logind()" class="btn btn-secondary">login</button>
+
+
+
+
+
+
+            </div>
+
+            <div class="register-info-box">
+
+                <h2>dont have an account   ?</h2>
+                <br>
+                <br>
+                <br>
+
+                <button type="button" for="" onclick="register()" class="btn btn-secondary">register</button>
+
+            </div>
+
+            <div class="white-panel" id="login-id">
+                <div class="login-show">
+                    <h2>login</h2>
+                    <br>
+                    <input type="text" id="uName" placeholder="Email">
+                    <br>
+                    <br>
+
+                    <input type="password" id="Password" placeholder="password">
+                    <br>
+                    <br>
+
+                    <button type="button" onclick="log()" class="btn btn-secondary">login</button>
+                    <br>
+
+
+                </div>
+            </div>
+            <div class="white-panel2" id="register-id">
+
+                <div class="register-show">
+                    <h2>register</h2>
+                    <br>
+                    <input type="text" id="FirstName" maxlength="25" placeholder="FirstName">
+                    <br>
+                    <br>
+                    <input type="text" id="LastName" maxlength="25" placeholder="LastName">
+                    <br>
+                    <br>
+                    <input type="text" id="JobDescription" maxlength="25" placeholder="JobDescription">
+                    <br>
+
+                    <br>
+
+                    <input type="password" id="uPassWord" maxlength="12" placeholder="password">
+                    <br>
+                    <br>
+
+                    <input type="password" id="rePassWord" maxlength="12" placeholder="Re-password">
+                    <br>
+                    <br><input type="text" id="Email" maxlength="50" placeholder="Email">
+                    <br>
+
+                    <br><input type="text" id="uPhone" placeholder="Phone Number" maxlength="11" onkeypress="javascript:return isNumber(event)">
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+
+
+                    <button type="button" onclick="regd()" class="btn btn-secondary">register</button>
+
+
+                </div>
+            </div>
+
+
+        </div>
+
+
+
+
+
+    </section>
+
+
+
+
+</body>
+
+
+
+
+
+
+
+
+
+
+</html>

@@ -25,3 +25,18 @@ D:\IA PROJECT\IA\Code\ManagementSystem\Common\bin\Debug\EntityFramework.SqlServe
 D:\IA PROJECT\IA\Code\ManagementSystem\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
 D:\IA PROJECT\IA\Code\ManagementSystem\Common\obj\Debug\Common.dll
 D:\IA PROJECT\IA\Code\ManagementSystem\Common\obj\Debug\Common.pdb
+F:\Projects\mangmentsystem\IA\Code\ManagementSystem\Common\bin\Debug\Common.dll.config
+F:\Projects\mangmentsystem\IA\Code\ManagementSystem\Common\bin\Debug\Common.dll
+F:\Projects\mangmentsystem\IA\Code\ManagementSystem\Common\bin\Debug\Common.pdb
+F:\Projects\mangmentsystem\IA\Code\ManagementSystem\Common\bin\Debug\EntityFramework.dll
+F:\Projects\mangmentsystem\IA\Code\ManagementSystem\Common\bin\Debug\EntityFramework.SqlServer.dll
+F:\Projects\mangmentsystem\IA\Code\ManagementSystem\Common\bin\Debug\ManagementSystem.DAL.dll
+F:\Projects\mangmentsystem\IA\Code\ManagementSystem\Common\bin\Debug\ManagementSystem.DAL.pdb
+F:\Projects\mangmentsystem\IA\Code\ManagementSystem\Common\bin\Debug\ManagementSystem.DAL.dll.config
+F:\Projects\mangmentsystem\IA\Code\ManagementSystem\Common\bin\Debug\EntityFramework.xml
+F:\Projects\mangmentsystem\IA\Code\ManagementSystem\Common\bin\Debug\EntityFramework.SqlServer.xml
+F:\Projects\mangmentsystem\IA\Code\ManagementSystem\Common\obj\Debug\Common.csprojAssemblyReference.cache
+F:\Projects\mangmentsystem\IA\Code\ManagementSystem\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+F:\Projects\mangmentsystem\IA\Code\ManagementSystem\Common\obj\Debug\Common.csproj.CopyComplete
+F:\Projects\mangmentsystem\IA\Code\ManagementSystem\Common\obj\Debug\Common.dll
+F:\Projects\mangmentsystem\IA\Code\ManagementSystem\Common\obj\Debug\Common.pdb

@@ -18,17 +18,16 @@ namespace ManagementSystem.BLL.Service
         }
 
 
-        public Users Add(Users user)
+        public bool Add(Users user)
         {
             try
             {
                 _user.Add(user);
-                _user.Save();
-                return user;
+                return true;
             }
             catch (Exception e)
             {
-                throw e;
+                return false;
             }
         }
 
@@ -37,7 +36,6 @@ namespace ManagementSystem.BLL.Service
             try
             {
                 _user.Edit(user);
-                _user.Save();
                 return true;
             }
             catch (Exception e)
@@ -51,7 +49,7 @@ namespace ManagementSystem.BLL.Service
             try
             {
                 _user.Delete(user);
-                _user.Save();
+               
                 return true;
             }
             catch (Exception e)
@@ -60,7 +58,14 @@ namespace ManagementSystem.BLL.Service
             }
         }
 
-
+        public IEnumerable<Users> Get()
+        {
+            return _user.GetAll();
+        }
+        public Users get(string email,string pass)
+        {
+          return  Get().Where(m => m.Email == email && m.Password == pass).FirstOrDefault();
+        }
 
     }
 }

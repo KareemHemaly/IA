@@ -15,5 +15,6 @@ namespace Common.IRepository
         void Delete(T entity);
         void Edit(T entity);
         void Save();
+        T Get(int Id);
     }
 }
