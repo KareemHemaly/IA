@@ -13,3 +13,15 @@ E:\IA PROJECT\IA\Code\ManagementSystem\Common\obj\Debug\Common.csproj.CoreCompil
 E:\IA PROJECT\IA\Code\ManagementSystem\Common\obj\Debug\Common.csproj.CopyComplete
 E:\IA PROJECT\IA\Code\ManagementSystem\Common\obj\Debug\Common.dll
 E:\IA PROJECT\IA\Code\ManagementSystem\Common\obj\Debug\Common.pdb
+D:\IA PROJECT\IA\Code\ManagementSystem\Common\bin\Debug\Common.dll.config
+D:\IA PROJECT\IA\Code\ManagementSystem\Common\bin\Debug\Common.dll
+D:\IA PROJECT\IA\Code\ManagementSystem\Common\bin\Debug\Common.pdb
+D:\IA PROJECT\IA\Code\ManagementSystem\Common\bin\Debug\EntityFramework.dll
+D:\IA PROJECT\IA\Code\ManagementSystem\Common\bin\Debug\EntityFramework.SqlServer.dll
+D:\IA PROJECT\IA\Code\ManagementSystem\Common\bin\Debug\ManagementSystem.DAL.dll
+D:\IA PROJECT\IA\Code\ManagementSystem\Common\bin\Debug\ManagementSystem.DAL.pdb
+D:\IA PROJECT\IA\Code\ManagementSystem\Common\bin\Debug\EntityFramework.xml
+D:\IA PROJECT\IA\Code\ManagementSystem\Common\bin\Debug\EntityFramework.SqlServer.xml
+D:\IA PROJECT\IA\Code\ManagementSystem\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\IA PROJECT\IA\Code\ManagementSystem\Common\obj\Debug\Common.dll
+D:\IA PROJECT\IA\Code\ManagementSystem\Common\obj\Debug\Common.pdb

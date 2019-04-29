@@ -21,10 +21,53 @@ namespace ManagementSystem.BLL.Service
         public void update(int id)
         {
             Project project = _project.GetAll().Where(x => x.Id == id).FirstOrDefault();
-            project.IsAssigned = false;
+            project.Cloumn = false;
             _project.Add(project);
             _project.Save();
         }
+
+        public bool Add(Project project)
+        {
+            try
+            {
+                _project.Add(project);
+                _project.Save();
+                return true;
+            }
+            catch (Exception e)
+            {
+                throw e;
+            }
+        }
+
+        public bool Edit(Project project)
+        {
+            try
+            {
+                _project.Edit(project);
+                _project.Save();
+                return true;
+            }
+            catch (Exception e)
+            {
+                throw e;
+            }
+        }
+
+        public bool Delete(Project project)
+        {
+            try
+            {
+                _project.Delete(project);
+                _project.Save();
+                return true;
+            }
+            catch (Exception e)
+            {
+                throw e;
+            }
+        }
+
 
 
     }

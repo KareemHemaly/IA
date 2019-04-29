@@ -76,6 +76,10 @@
     <Compile Include="Migrations\201904281829120_int.Designer.cs">
       <DependentUpon>201904281829120_int.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201904291059388_enabledatabase.cs" />
+    <Compile Include="Migrations\201904291059388_enabledatabase.Designer.cs">
+      <DependentUpon>201904291059388_enabledatabase.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -88,6 +92,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201904281829120_int.resx">
       <DependentUpon>201904281829120_int.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201904291059388_enabledatabase.resx">
+      <DependentUpon>201904291059388_enabledatabase.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>

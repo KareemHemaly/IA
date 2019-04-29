@@ -31,5 +31,36 @@ namespace ManagementSystem.BLL.Service
                 throw e;
             }
         }
+
+        public bool Edit(Users user)
+        {
+            try
+            {
+                _user.Edit(user);
+                _user.Save();
+                return true;
+            }
+            catch (Exception e)
+            {
+                throw e;
+            }
+        }
+
+        public bool Delete(Users user)
+        {
+            try
+            {
+                _user.Delete(user);
+                _user.Save();
+                return true;
+            }
+            catch (Exception e)
+            {
+                throw e;
+            }
+        }
+
+
+
     }
 }

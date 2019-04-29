@@ -13,3 +13,14 @@ E:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.BLL\obj\Debug\Management
 E:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.BLL\obj\Debug\ManagementSystem.BLL.csproj.CopyComplete
 E:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.BLL\obj\Debug\ManagementSystem.BLL.dll
 E:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.BLL\obj\Debug\ManagementSystem.BLL.pdb
+D:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.BLL\bin\Debug\ManagementSystem.BLL.dll
+D:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.BLL\bin\Debug\ManagementSystem.BLL.pdb
+D:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.BLL\bin\Debug\Common.dll
+D:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.BLL\bin\Debug\ManagementSystem.DAL.dll
+D:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.BLL\bin\Debug\EntityFramework.dll
+D:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.BLL\bin\Debug\Common.pdb
+D:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.BLL\bin\Debug\ManagementSystem.DAL.pdb
+D:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.BLL\bin\Debug\EntityFramework.xml
+D:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.BLL\obj\Debug\ManagementSystem.BLL.csprojResolveAssemblyReference.cache
+D:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.BLL\obj\Debug\ManagementSystem.BLL.dll
+D:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.BLL\obj\Debug\ManagementSystem.BLL.pdb
