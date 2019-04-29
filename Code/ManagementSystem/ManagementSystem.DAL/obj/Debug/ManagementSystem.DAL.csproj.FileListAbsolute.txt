@@ -70,3 +70,23 @@ D:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.DAL\obj\Debug\Management
 D:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.DAL\obj\Debug\ManagementSystem.DAL.csproj.GenerateResource.Cache
 D:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.DAL\obj\Debug\ManagementSystem.DAL.dll
 D:\IA PROJECT\IA\Code\ManagementSystem\ManagementSystem.DAL\obj\Debug\ManagementSystem.DAL.pdb
+F:\Projects\mangmentsystem\IA\Code\ManagementSystem\ManagementSystem.DAL\bin\Debug\ManagementSystem.DAL.dll.config
+F:\Projects\mangmentsystem\IA\Code\ManagementSystem\ManagementSystem.DAL\bin\Debug\ManagementSystem.DAL.dll
+F:\Projects\mangmentsystem\IA\Code\ManagementSystem\ManagementSystem.DAL\bin\Debug\ManagementSystem.DAL.pdb
+F:\Projects\mangmentsystem\IA\Code\ManagementSystem\ManagementSystem.DAL\bin\Debug\EntityFramework.dll
+F:\Projects\mangmentsystem\IA\Code\ManagementSystem\ManagementSystem.DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\Projects\mangmentsystem\IA\Code\ManagementSystem\ManagementSystem.DAL\bin\Debug\EntityFramework.SqlServerCompact.dll
+F:\Projects\mangmentsystem\IA\Code\ManagementSystem\ManagementSystem.DAL\bin\Debug\System.Data.SqlServerCe.dll
+F:\Projects\mangmentsystem\IA\Code\ManagementSystem\ManagementSystem.DAL\bin\Debug\EntityFramework.xml
+F:\Projects\mangmentsystem\IA\Code\ManagementSystem\ManagementSystem.DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\Projects\mangmentsystem\IA\Code\ManagementSystem\ManagementSystem.DAL\bin\Debug\EntityFramework.SqlServerCompact.xml
+F:\Projects\mangmentsystem\IA\Code\ManagementSystem\ManagementSystem.DAL\obj\Debug\ManagementSystem.DAL.csprojAssemblyReference.cache
+F:\Projects\mangmentsystem\IA\Code\ManagementSystem\ManagementSystem.DAL\obj\Debug\ManagementSystem.DAL.Migrations.CreateDB.resources
+F:\Projects\mangmentsystem\IA\Code\ManagementSystem\ManagementSystem.DAL\obj\Debug\ManagementSystem.DAL.Migrations.Test.resources
+F:\Projects\mangmentsystem\IA\Code\ManagementSystem\ManagementSystem.DAL\obj\Debug\ManagementSystem.DAL.Migrations._int.resources
+F:\Projects\mangmentsystem\IA\Code\ManagementSystem\ManagementSystem.DAL\obj\Debug\ManagementSystem.DAL.Migrations.enabledatabase.resources
+F:\Projects\mangmentsystem\IA\Code\ManagementSystem\ManagementSystem.DAL\obj\Debug\ManagementSystem.DAL.csproj.GenerateResource.cache
+F:\Projects\mangmentsystem\IA\Code\ManagementSystem\ManagementSystem.DAL\obj\Debug\ManagementSystem.DAL.csproj.CoreCompileInputs.cache
+F:\Projects\mangmentsystem\IA\Code\ManagementSystem\ManagementSystem.DAL\obj\Debug\ManagementSystem.DAL.csproj.CopyComplete
+F:\Projects\mangmentsystem\IA\Code\ManagementSystem\ManagementSystem.DAL\obj\Debug\ManagementSystem.DAL.dll
+F:\Projects\mangmentsystem\IA\Code\ManagementSystem\ManagementSystem.DAL\obj\Debug\ManagementSystem.DAL.pdb
